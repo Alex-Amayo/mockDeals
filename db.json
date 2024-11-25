@@ -1,0 +1,404 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "storeName": "GameStop",
+      "storeImage": "https://via.placeholder.com/100?text=GameStop",
+      "description": "Buy 1 Get 1 Free on all clothing items this weekend!",
+      "likes": 219,
+      "createdAt": "2024-11-01T11:00:00Z"
+    },
+    {
+      "id": 2,
+      "storeName": "Toy Universe",
+      "storeImage": "https://via.placeholder.com/100?text=ToyUniverse",
+      "description": "Buy 1 Get 1 Free on all clothing items this weekend!",
+      "likes": 422,
+      "createdAt": "2024-11-01T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "storeName": "TechMart",
+      "storeImage": "https://via.placeholder.com/100?text=TechMart",
+      "description": "Buy 1 Get 1 Free on all clothing items this weekend!",
+      "likes": 361,
+      "createdAt": "2024-11-01T13:00:00Z"
+    },
+    {
+      "id": 4,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "Toys for every age - discounts up to 25%!",
+      "likes": 282,
+      "createdAt": "2024-11-01T14:00:00Z"
+    },
+    {
+      "id": 5,
+      "storeName": "Book Haven",
+      "storeImage": "https://via.placeholder.com/100?text=BookHaven",
+      "description": "Great deals on the latest games and consoles.",
+      "likes": 54,
+      "createdAt": "2024-11-01T15:00:00Z"
+    },
+    {
+      "id": 6,
+      "storeName": "GadgetCentral",
+      "storeImage": "https://via.placeholder.com/100?text=GadgetCentral",
+      "description": "50% off on all gadgets and electronics! Limited time only.",
+      "likes": 147,
+      "createdAt": "2024-11-01T16:00:00Z"
+    },
+    {
+      "id": 7,
+      "storeName": "Toy Universe",
+      "storeImage": "https://via.placeholder.com/100?text=ToyUniverse",
+      "description": "50% off on all gadgets and electronics! Limited time only.",
+      "likes": 248,
+      "createdAt": "2024-11-01T17:00:00Z"
+    },
+    {
+      "id": 8,
+      "storeName": "GadgetCentral",
+      "storeImage": "https://via.placeholder.com/100?text=GadgetCentral",
+      "description": "Exclusive sports gear discounts - up to 40% off.",
+      "likes": 344,
+      "createdAt": "2024-11-01T18:00:00Z"
+    },
+    {
+      "id": 9,
+      "storeName": "TechMart",
+      "storeImage": "https://via.placeholder.com/100?text=TechMart",
+      "description": "Clearance sale! All books under $5.",
+      "likes": 484,
+      "createdAt": "2024-11-01T19:00:00Z"
+    },
+    {
+      "id": 10,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "50% off on all gadgets and electronics! Limited time only.",
+      "likes": 161,
+      "createdAt": "2024-11-01T20:00:00Z"
+    },
+    {
+      "id": 11,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "Weekly grocery deals with up to 30% savings on essentials.",
+      "likes": 485,
+      "createdAt": "2024-11-01T21:00:00Z"
+    },
+    {
+      "id": 12,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "Trendy fashion at 30% off - shop now!",
+      "likes": 169,
+      "createdAt": "2024-11-01T22:00:00Z"
+    },
+    {
+      "id": 13,
+      "storeName": "Book Haven",
+      "storeImage": "https://via.placeholder.com/100?text=BookHaven",
+      "description": "Buy 1 Get 1 Free on all clothing items this weekend!",
+      "likes": 128,
+      "createdAt": "2024-11-01T23:00:00Z"
+    },
+    {
+      "id": 14,
+      "storeName": "Fashion Fiesta",
+      "storeImage": "https://via.placeholder.com/100?text=FashionFiesta",
+      "description": "Toys for every age - discounts up to 25%!",
+      "likes": 332,
+      "createdAt": "2024-11-02T00:00:00Z"
+    },
+    {
+      "id": 15,
+      "storeName": "Home Essentials",
+      "storeImage": "https://via.placeholder.com/100?text=HomeEssentials",
+      "description": "Trendy fashion at 30% off - shop now!",
+      "likes": 295,
+      "createdAt": "2024-11-02T01:00:00Z"
+    },
+    {
+      "id": 16,
+      "storeName": "GameStop",
+      "storeImage": "https://via.placeholder.com/100?text=GameStop",
+      "description": "Latest tech gadgets at unbeatable prices.",
+      "likes": 263,
+      "createdAt": "2024-11-02T02:00:00Z"
+    },
+    {
+      "id": 17,
+      "storeName": "Groceries Plus",
+      "storeImage": "https://via.placeholder.com/100?text=GroceriesPlus",
+      "description": "Toys for every age - discounts up to 25%!",
+      "likes": 94,
+      "createdAt": "2024-11-02T03:00:00Z"
+    },
+    {
+      "id": 18,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "Weekly grocery deals with up to 30% savings on essentials.",
+      "likes": 412,
+      "createdAt": "2024-11-02T04:00:00Z"
+    },
+    {
+      "id": 19,
+      "storeName": "GadgetCentral",
+      "storeImage": "https://via.placeholder.com/100?text=GadgetCentral",
+      "description": "50% off on all gadgets and electronics! Limited time only.",
+      "likes": 135,
+      "createdAt": "2024-11-02T05:00:00Z"
+    },
+    {
+      "id": 20,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "Essential home supplies with amazing discounts.",
+      "likes": 240,
+      "createdAt": "2024-11-02T06:00:00Z"
+    },
+    {
+      "id": 21,
+      "storeName": "TechMart",
+      "storeImage": "https://via.placeholder.com/100?text=TechMart",
+      "description": "Toys for every age - discounts up to 25%!",
+      "likes": 221,
+      "createdAt": "2024-11-02T07:00:00Z"
+    },
+    {
+      "id": 22,
+      "storeName": "Fashion Fiesta",
+      "storeImage": "https://via.placeholder.com/100?text=FashionFiesta",
+      "description": "Latest tech gadgets at unbeatable prices.",
+      "likes": 306,
+      "createdAt": "2024-11-02T08:00:00Z"
+    },
+    {
+      "id": 23,
+      "storeName": "Home Essentials",
+      "storeImage": "https://via.placeholder.com/100?text=HomeEssentials",
+      "description": "Weekly grocery deals with up to 30% savings on essentials.",
+      "likes": 361,
+      "createdAt": "2024-11-02T09:00:00Z"
+    },
+    {
+      "id": 24,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "Trendy fashion at 30% off - shop now!",
+      "likes": 187,
+      "createdAt": "2024-11-02T10:00:00Z"
+    },
+    {
+      "id": 25,
+      "storeName": "Book Haven",
+      "storeImage": "https://via.placeholder.com/100?text=BookHaven",
+      "description": "Exclusive sports gear discounts - up to 40% off.",
+      "likes": 447,
+      "createdAt": "2024-11-02T11:00:00Z"
+    },
+    {
+      "id": 26,
+      "storeName": "GameStop",
+      "storeImage": "https://via.placeholder.com/100?text=GameStop",
+      "description": "Great deals on the latest games and consoles.",
+      "likes": 123,
+      "createdAt": "2024-11-02T12:00:00Z"
+    },
+    {
+      "id": 27,
+      "storeName": "StyleHub",
+      "storeImage": "https://via.placeholder.com/100?text=StyleHub",
+      "description": "Toys for every age - discounts up to 25%!",
+      "likes": 472,
+      "createdAt": "2024-11-02T13:00:00Z"
+    },
+    {
+      "id": 28,
+      "storeName": "StyleHub",
+      "storeImage": "https://via.placeholder.com/100?text=StyleHub",
+      "description": "Clearance sale! All books under $5.",
+      "likes": 409,
+      "createdAt": "2024-11-02T14:00:00Z"
+    },
+    {
+      "id": 29,
+      "storeName": "StyleHub",
+      "storeImage": "https://via.placeholder.com/100?text=StyleHub",
+      "description": "Exclusive sports gear discounts - up to 40% off.",
+      "likes": 441,
+      "createdAt": "2024-11-02T15:00:00Z"
+    },
+    {
+      "id": 30,
+      "storeName": "Home Essentials",
+      "storeImage": "https://via.placeholder.com/100?text=HomeEssentials",
+      "description": "Exclusive sports gear discounts - up to 40% off.",
+      "likes": 396,
+      "createdAt": "2024-11-02T16:00:00Z"
+    },
+    {
+      "id": 31,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "Exclusive sports gear discounts - up to 40% off.",
+      "likes": 379,
+      "createdAt": "2024-11-02T17:00:00Z"
+    },
+    {
+      "id": 32,
+      "storeName": "Groceries Plus",
+      "storeImage": "https://via.placeholder.com/100?text=GroceriesPlus",
+      "description": "Buy 1 Get 1 Free on all clothing items this weekend!",
+      "likes": 152,
+      "createdAt": "2024-11-02T18:00:00Z"
+    },
+    {
+      "id": 33,
+      "storeName": "GadgetCentral",
+      "storeImage": "https://via.placeholder.com/100?text=GadgetCentral",
+      "description": "Buy 1 Get 1 Free on all clothing items this weekend!",
+      "likes": 317,
+      "createdAt": "2024-11-02T19:00:00Z"
+    },
+    {
+      "id": 34,
+      "storeName": "Fashion Fiesta",
+      "storeImage": "https://via.placeholder.com/100?text=FashionFiesta",
+      "description": "Trendy fashion at 30% off - shop now!",
+      "likes": 92,
+      "createdAt": "2024-11-02T20:00:00Z"
+    },
+    {
+      "id": 35,
+      "storeName": "GadgetCentral",
+      "storeImage": "https://via.placeholder.com/100?text=GadgetCentral",
+      "description": "Exclusive sports gear discounts - up to 40% off.",
+      "likes": 381,
+      "createdAt": "2024-11-02T21:00:00Z"
+    },
+    {
+      "id": 36,
+      "storeName": "GadgetCentral",
+      "storeImage": "https://via.placeholder.com/100?text=GadgetCentral",
+      "description": "Clearance sale! All books under $5.",
+      "likes": 438,
+      "createdAt": "2024-11-02T22:00:00Z"
+    },
+    {
+      "id": 37,
+      "storeName": "Groceries Plus",
+      "storeImage": "https://via.placeholder.com/100?text=GroceriesPlus",
+      "description": "Trendy fashion at 30% off - shop now!",
+      "likes": 431,
+      "createdAt": "2024-11-02T23:00:00Z"
+    },
+    {
+      "id": 38,
+      "storeName": "Home Essentials",
+      "storeImage": "https://via.placeholder.com/100?text=HomeEssentials",
+      "description": "Clearance sale! All books under $5.",
+      "likes": 454,
+      "createdAt": "2024-11-03T00:00:00Z"
+    },
+    {
+      "id": 39,
+      "storeName": "StyleHub",
+      "storeImage": "https://via.placeholder.com/100?text=StyleHub",
+      "description": "Trendy fashion at 30% off - shop now!",
+      "likes": 355,
+      "createdAt": "2024-11-03T01:00:00Z"
+    },
+    {
+      "id": 40,
+      "storeName": "Fashion Fiesta",
+      "storeImage": "https://via.placeholder.com/100?text=FashionFiesta",
+      "description": "50% off on all gadgets and electronics! Limited time only.",
+      "likes": 455,
+      "createdAt": "2024-11-03T02:00:00Z"
+    },
+    {
+      "id": 41,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "Weekly grocery deals with up to 30% savings on essentials.",
+      "likes": 172,
+      "createdAt": "2024-11-03T03:00:00Z"
+    },
+    {
+      "id": 42,
+      "storeName": "Toy Universe",
+      "storeImage": "https://via.placeholder.com/100?text=ToyUniverse",
+      "description": "Trendy fashion at 30% off - shop now!",
+      "likes": 433,
+      "createdAt": "2024-11-03T04:00:00Z"
+    },
+    {
+      "id": 43,
+      "storeName": "Groceries Plus",
+      "storeImage": "https://via.placeholder.com/100?text=GroceriesPlus",
+      "description": "Buy 1 Get 1 Free on all clothing items this weekend!",
+      "likes": 487,
+      "createdAt": "2024-11-03T05:00:00Z"
+    },
+    {
+      "id": 44,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "Trendy fashion at 30% off - shop now!",
+      "likes": 147,
+      "createdAt": "2024-11-03T06:00:00Z"
+    },
+    {
+      "id": 45,
+      "storeName": "GadgetCentral",
+      "storeImage": "https://via.placeholder.com/100?text=GadgetCentral",
+      "description": "Great deals on the latest games and consoles.",
+      "likes": 221,
+      "createdAt": "2024-11-03T07:00:00Z"
+    },
+    {
+      "id": 46,
+      "storeName": "StyleHub",
+      "storeImage": "https://via.placeholder.com/100?text=StyleHub",
+      "description": "Buy 1 Get 1 Free on all clothing items this weekend!",
+      "likes": 380,
+      "createdAt": "2024-11-03T08:00:00Z"
+    },
+    {
+      "id": 47,
+      "storeName": "GadgetCentral",
+      "storeImage": "https://via.placeholder.com/100?text=GadgetCentral",
+      "description": "Latest tech gadgets at unbeatable prices.",
+      "likes": 108,
+      "createdAt": "2024-11-03T09:00:00Z"
+    },
+    {
+      "id": 48,
+      "storeName": "Book Haven",
+      "storeImage": "https://via.placeholder.com/100?text=BookHaven",
+      "description": "Clearance sale! All books under $5.",
+      "likes": 260,
+      "createdAt": "2024-11-03T10:00:00Z"
+    },
+    {
+      "id": 49,
+      "storeName": "GameStop",
+      "storeImage": "https://via.placeholder.com/100?text=GameStop",
+      "description": "Weekly grocery deals with up to 30% savings on essentials.",
+      "likes": 331,
+      "createdAt": "2024-11-03T11:00:00Z"
+    },
+    {
+      "id": 50,
+      "storeName": "SportsWorld",
+      "storeImage": "https://via.placeholder.com/100?text=SportsWorld",
+      "description": "Buy 1 Get 1 Free on all clothing items this weekend!",
+      "likes": 446,
+      "createdAt": "2024-11-03T12:00:00Z"
+    }
+  ]
+}
